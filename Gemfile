@@ -81,7 +81,7 @@ gem "seth_ruby_ui", path: "."
 
 gem "pry", "0.16.0"
 
-gem "tailwind_merge", "~> 1.3.2"
+gem "tailwind_merge", "~> 1.4.0"
 
 gem "rouge", "~> 4.6"
 
